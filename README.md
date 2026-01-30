@@ -47,7 +47,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zV1nnyy&theme=2077&"width="500px" height="200em" />
   
-<img width="250" height="250em" src="https://tenor.com/pt-BR/view/the-last-of-us-part-2-gif-17435118313821363428"/>
+<img width="250" height="250em" src="https://giffiles.alphacoders.com/174/174281.gif"/>
 </div>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
