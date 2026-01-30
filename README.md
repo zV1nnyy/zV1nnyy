@@ -14,7 +14,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FzV1nnyyhl%2FzV1nnyyl&label=VISITORS&labelColor=f75c7e&countColor=6C38A0" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FzV1nnyyhl%2FzV1nnyyl&label=VISITORS&labelColor=6C38A0&countColor=6C38A0" />
 <br><br>
 </div>
 <br>
