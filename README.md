@@ -90,7 +90,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=6C38A0"/>
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
   </a>
   <a href="mailto:viniciusmariano1236@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=6C38A0" alt="email of Vinicius" />
