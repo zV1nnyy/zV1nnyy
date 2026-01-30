@@ -21,7 +21,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/6C38A0"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=6C38A0"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:viniciusmariano1236@gmail.com"><img width="32px" alt="email of Vinicius i.e. viniciusmariano1236@gmail.com" src="https://cdn.simpleicons.org/gmail/6C38A0"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
