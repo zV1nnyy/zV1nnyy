@@ -45,7 +45,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img width="500" src="https://streak-stats.demolab.com?user=zV1nnyy&theme=dark&ring=6C38A0&fire=6C38A0&currStreakLabel=6C38A0&sideLabels=6C38A0&dates=6C38A0&currStreakNum=6C38A0&sideNums=6C38A0&stroke=6C38A0&v=2" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zV1nnyy&theme=2077&"width="500px" height="200em" />
   
 <img width="250" height="250em" src="https://giffiles.alphacoders.com/174/174281.gif"/>
 </div>
