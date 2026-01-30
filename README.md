@@ -21,31 +21,16 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <!-- Social icons section -->
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=6C38A0" width="40" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:viniciusmariano1236@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=53383&format=png&color=6C38A0" width="40" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/zvinnyy/">
-    <img src="https://img.icons8.com/?size=100&id=32292&format=png&color=6C38A0" width="40" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://discord.com/users/1203139761494171772">
-    <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=6C38A0" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://svgshare.com/i/18QX.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:viniciusmariano1236@gmail.com"><img width="32px" alt="email of Vinicius i.e. viniciusmariano1236@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/zv1nnyy/"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/1203139761494171772" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
-
 <br/>
 
 <p align="center">
