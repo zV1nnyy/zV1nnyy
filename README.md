@@ -35,7 +35,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Student%20of%20Systems%20Analysis%20and%20Development;Always%20learning%20new%20things!&center=true&width=650&height=45&color=f75c7e&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Student%20of%20Systems%20Analysis%20and%20Development;Always%20learning%20new%20things!&center=true&width=650&height=45&color=6C38A0&size=22" />
 </p>
 
 
