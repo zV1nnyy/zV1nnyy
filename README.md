@@ -21,14 +21,64 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://svgshare.com/i/18QX.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:viniciusmariano1236@gmail.com"><img width="32px" alt="email of Vinicius i.e. viniciusmariano1236@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/zv1nnyy/"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/1203139761494171772" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+<a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/">
+<svg width="42" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" style="margin: 0 12px;">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<path filter="url(#glow)" fill="#6C38A0" d="M16 19h5v17h-5V19zm2.5-8c1.6 0 2.5 1 2.5 2.3 0 1.4-.9 2.4-2.4 2.4h-.1C17 15.7 16 14.7 16 13.3c0-1.3 1-2.3 2.5-2.3zM27 19h4.8v2.3h.1c.7-1.3 2.3-2.6 4.8-2.6 5.1 0 6 3.4 6 7.7V36h-5V27.4c0-2-.1-4.7-3-4.7-3 0-3.5 2.2-3.5 4.6V36h-5V19z"/>
+</svg>
+</a>
+
+<svg width="42" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" style="margin: 0 12px;">
+<defs>
+  <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<path filter="url(#glow2)" fill="#6C38A0" d="M6 12l18 14L42 12v24H6z"/>
+</svg>
+
+<svg width="42" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" style="margin: 0 12px;">
+<defs>
+  <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<circle filter="url(#glow3)" cx="24" cy="24" r="10" fill="#6C38A0"/>
+<circle filter="url(#glow3)" cx="34" cy="14" r="3" fill="#6C38A0"/>
+</svg>
+
+<svg width="42" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" style="margin: 0 12px;">
+<defs>
+  <filter id="glow4" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<path filter="url(#glow4)" fill="#6C38A0" d="M41 14s-4-3-9-3l-1 2c-3-1-6-1-8 0l-1-2c-5 0-9 3-9 3s-5 9-5 20c5 4 10 4 10 4l2-3c3 1 6 1 9 0l2 3s5 0 10-4c0-11-5-20-5-20zM20 27c-1 0-3-1-3-3s2-3 3-3 3 1 3 3-1 3-3 3zm8 0c-1 0-3-1-3-3s2-3 3-3 3 1 3 3-1 3-3 3z"/>
+</svg>
+
+</p>
+
 
 </p>
 <br/>
