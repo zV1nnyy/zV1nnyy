@@ -45,7 +45,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=zV1nnyy&show_icons=true&hide_title=false&title_color=6C38A0&text_color=6C38A0&icon_color=6C38A0&bg_color=0d1117&border_color=6C38A0&v=1" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zV1nnyy&theme=2077&"width="500px" height="200em" />
 
   
 <img width="250" height="250em" src="https://giffiles.alphacoders.com/174/174281.gif"/>
