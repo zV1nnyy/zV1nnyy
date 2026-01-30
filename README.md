@@ -25,7 +25,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:viniciusmariano1236@gmail.com"><img width="32px" alt="email of Vinicius i.e. viniciusmariano1236@gmail.com" src="https://i.imgur.com/KDKGcdI.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/zv1nnyy/"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
+  <a href="https://www.instagram.com/zv1nnyy/"><img width="32px" src="https://i.imgur.com/f6XLQX5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/1203139761494171772" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
