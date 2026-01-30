@@ -90,13 +90,13 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
   </a>
   <a href="mailto:viniciusmariano1236@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=6C38A0" alt="email of Vinicius" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=6C38A0" alt="email of Vinicius" />
   </a>
   <a href="https://discord.gg/A4b6ymWr](https://discord.com/users/1203139761494171772">
-    <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=6C38A0" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=6C38A0" alt="Discord" />
   </a>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" />
