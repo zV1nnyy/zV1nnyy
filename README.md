@@ -45,7 +45,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zV1nnyy&theme=2077&"width="500px" height="200em" />
+<img src="https://github-readme-stats.vercel.app/api?username=zV1nnyy&show_icons=true&title_color=6C38A0&text_color=6C38A0&icon_color=6C38A0&bg_color=00000000&border_color=6C38A0" />
   
 <img width="250" height="250em" src="https://static.wikia.nocookie.net/ordemparanormal/images/2/20/Conhecimento.png/revision/latest?cb=20211227034840&path-prefix=pt-br"/>
 </div>
@@ -56,7 +56,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <div align="center">
   
-![Isabela Coppola's Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaDevTec&theme=tokyonight)
+![Isabela Coppola's Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zV1nnyy&theme=tokyonight)
 
 </div>
 
