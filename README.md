@@ -89,13 +89,13 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/isabela-amaro-coppola-7701231bb">
+  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
   </a>
-  <a href="mailto:amaroisabela376@gmail.com">
+  <a href="mailto:viniciusmariano1236@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Isabela" />
   </a>
-  <a href="https://discord.gg/pMM927ST](https://discord.com/users/767798928481320990">
+  <a href="https://discord.gg/A4b6ymWr](https://discord.com/users/1203139761494171772">
     <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Discord" />
   </a>
 </div>
