@@ -27,7 +27,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/zv1nnyy/"><img width="32px" src="https://cdn.simpleicons.org/instagram/6C38A0"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/1203139761494171772" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/1203139761494171772" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn.simpleicons.org/discord/6C38A0"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
