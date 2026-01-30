@@ -45,7 +45,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=zV1nnyy&show_icons=true&title_color=6C38A0&text_color=6C38A0&icon_color=6C38A0&bg_color=00000000&border_color=6C38A0" />
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=zV1nnyy&show_icons=true&title_color=6C38A0&text_color=6C38A0&icon_color=6C38A0&bg_color=0d1117&hide_border=true" />
   
 <img width="250" height="250em" src="https://static.wikia.nocookie.net/ordemparanormal/images/2/20/Conhecimento.png/revision/latest?cb=20211227034840&path-prefix=pt-br"/>
 </div>
