@@ -56,7 +56,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <div align="center">
   
-![Isabela Coppola's Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zV1nnyy&theme=tokyonight)
+![Vinicius Mariano Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zV1nnyy&theme=shades_of_purple)
 
 </div>
 
