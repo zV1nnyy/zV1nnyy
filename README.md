@@ -45,7 +45,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zV1nnyy&theme=shades_of_purple&"width="500px" height="200em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zV1nnyy&theme=midnight_purple&"width="500px" height="200em" />
   
 <img width="250" height="250em" src="https://giffiles.alphacoders.com/174/174281.gif"/>
 </div>
@@ -56,7 +56,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 <div align="center">
   
-![Vinicius Mariano Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zV1nnyy&theme=shades_of_purple)
+![Vinicius Mariano Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zV1nnyy&theme=midnight_purple)
 
 </div>
 
