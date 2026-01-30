@@ -14,16 +14,16 @@ Systems analysis and Development | Passionate about technology, learning and cre
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FzV1nnyyhl%2FzV1nnyyl&label=VISITORS&labelColor=f75c7e&countColor=FFB6C1" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FzV1nnyyhl%2FzV1nnyyl&label=VISITORS&labelColor=f75c7e&countColor=6C38A0" />
 <br><br>
 </div>
 <br>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/"><img width="32" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/bmg6oeg.png"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-mariano-bb8883200/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/bmg6oeg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:viniciusmariano1236@gmail.com"><img width="32px" alt="email of Vinicius i.e. viniciusmariano1236@gmail.com" src="https://i.imgur.com/nFbW7HI.png"/></a>
+  <a href="mailto:viniciusmariano1236@gmail.com"><img width="32px" alt="email of Vinicius i.e. viniciusmariano1236@gmail.com" src="https://i.imgur.com/KDKGcdI.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/zv1nnyy/"><img width="32px" src="https://i.imgur.com/RGX0vou.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
