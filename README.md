@@ -68,12 +68,12 @@ Systems analysis and Development | Passionate about technology, learning and cre
 
 | Category        | Skills        |
 |-----------------|---------------|
-| Lenguages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=LOGO&logoColor=ffffff&color=000000"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff&color=000000"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=6C38A0"/>|
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=6C38A0 "> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=6C38A0"/> |
+| Lenguages       | <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6C38A0"/> <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=6C38A0&color=black"/> <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=6C38A0"/>|
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=6C38A0&color=000000 "> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6C38A0"/> |
 | Tools | <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=6C38A0"/></a>|
-| Competitive Coding | <a href="https://leetcode.com/u/zV1nnyy/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=6C38A0"/></a> |
-| IDE & Ambients | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=6C38A0" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=6C38A0" /> |
-| Learning | <img src="https://img.shields.io/badge/Curso%20em%20Vídeo-27273D?style=for-the-badge&logo=youtube&logoColor=6C38A0" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=6C38A0" /> |
+| Competitive Coding | <a href="https://leetcode.com/u/zV1nnyy/"><img src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=6C38A0"/></a> |
+| IDE & Ambients | <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=6C38A0" /> <img src="https://img.shields.io/badge/Google_chrome-000000?style=for-the-badge&logo=Google-chrome&logoColor=6C38A0" /> |
+| Learning | <img src="https://img.shields.io/badge/Curso%20em%20Vídeo-000000?style=for-the-badge&logo=youtube&logoColor=6C38A0" /> <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=6C38A0" /> |
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" />
 
