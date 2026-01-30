@@ -99,7 +99,7 @@ Systems analysis and Development | Passionate about technology, learning and cre
     <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Discord" />
   </a>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" />
 
 
 
